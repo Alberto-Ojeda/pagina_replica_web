@@ -1,0 +1,51 @@
+
+header {
+    width: 100%;
+    background: rgb(205, 168, 250);
+   
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
+
+body {
+    width: 100%;
+    background: rgb(249, 209, 231);
+    color: white;
+}
+
+#proyectode{
+    margin-top: 200px;
+}
+
+a{
+    font-family: 'Rowdies';
+    src: url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap') format('woff2'),
+    margin-left: 20px;
+    margin-right:200px;
+    font-size: 26px;
+    
+}
+/* encabezado y menu de nuestra pagina web "hace referencia al div"*/
+.encabezado {
+   
+}
+
+/* hace referencia al nav*/
+.menu a {
+    display: inline;
+    height: 45px;
+    text-decoration: none;
+    padding: 50px;
+    float: right;
+    margin-top: -144px;
+
+}
+
+#comp{
+   
+   margin-left: 30%;
+   margin-right: 50%;
+    width: 1000px;
+
+}
