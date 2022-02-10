@@ -1,0 +1,148 @@
+.wrap{
+    margin-top: 500px; 
+}
+
+.wrap .proyectos .titulo h1{
+    margin-left: 50px;
+    font-size: 300%;
+    color:  rgb(88, 1, 88);
+    
+}
+
+.wrap .proyectos .contenedor1 {
+  
+    
+    margin-left: 50px;
+    margin-right: 300px;
+    padding: 20px;
+    border-radius: 1%;
+    background: rgb(205, 168, 250);
+    transition: 0.3s;
+    opacity: 200%;
+    color: white;
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.wrap .proyectos .contenedor1:hover {
+    background: rgb(166, 139, 154);
+    opacity: 90%;
+}
+
+
+.wrap .proyectos .proyect1{
+    margin-left: 50px;
+}
+#textprogra{
+    margin-right: 700px;
+}
+#programacion{
+margin-left: 950px;
+margin-top: -160px;
+}
+/*contenedor2 ------------------------------------------------*/
+
+
+
+
+.wrap .proyectos .contenedor2 {
+  
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 300px;
+    padding: 20px;
+    border-radius: 1%;
+    background: rgb(205, 168, 250);
+    transition: 0.3s;
+    opacity: 200%;
+    color: white;
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.wrap .proyectos .contenedor2:hover {
+    background: rgb(166, 139, 154);
+    opacity: 90%;
+}
+
+
+.wrap .proyectos .lustracion-digital{
+    margin-left: 50px;
+}
+
+#textilus{
+    margin-right: 700px;
+}
+#ilustracion{
+margin-left: 750px;
+margin-top: -150px;
+width: 300px;
+height: 300px;
+}
+/*contenedor2 ------------------------------------------------*/
+
+/*contenedor 3 ------------------------------------------------*/
+.wrap{
+    margin-top: 500px; 
+}
+
+.wrap .proyectos .titulo h1{
+    margin-left: 50px;
+    font-size: 300%;
+    color:  rgb(88, 1, 88);
+    
+}
+
+.wrap .proyectos .contenedor3 {
+  
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 800px;
+    padding: 20px;
+    border-radius:5%;
+    background: rgb(205, 168, 250);
+    transition: 0.3s;
+    opacity: 200%;
+    color: white;
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.wrap .proyectos .contenedor3:hover {
+    background: rgb(166, 139, 154);
+    opacity: 90%;
+}
+
+
+.wrap .proyectos .marketing-digital{
+    margin-left: 50px;
+}
+
+#marketing{
+    width: 300px;
+}
+
+footer{
+    background: rgb(205, 168, 250);
+    font-size:  15px;
+    margin: 1rem 0;
+    width: 100%;
+    height: 10rem;
+    background-size: cover;
+    background-position: center;
+    }
+
+    .btn-grad {
+        margin: 10px;
+        padding: 15px 45px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        background-color: rgb(136, 112, 166) ;
+        color: 205, 168, 250;            
+        box-shadow: 0 0 20px #eee;
+        border-radius: 10px;
+        display: block;
+      }
+
+      .btn-grad:hover {
+        background-position: right center; /* change the direction of the change here */
+        background-color: rgb(175, 159, 195);
+        text-decoration: none;
+
+      }
